@@ -1,3 +1,1 @@
-cambio realizado en local
-este es un cambio realizado por mi
- Cambio realizado en GitHub (rama main)
+Cambio realizado en GitHub (rama main)
